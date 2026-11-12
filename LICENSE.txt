@@ -1,0 +1,8 @@
+DevText Studio
+Copyright (c) 2026 <SELLER NAME>. All rights reserved.
+
+Sold through Vibe96 under the Vibe96 Standard License (https://vibe96.com/license):
+one buyer may use, modify and deploy this project for one end product, commercially.
+The source code may not be resold, redistributed or published.
+
+Third-party components keep their own licenses (see THIRD_PARTY_LICENSES.md).
