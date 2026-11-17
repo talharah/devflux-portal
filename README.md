@@ -31,8 +31,8 @@ Dockerfile          optional nginx container
 See `HowToSetup.md`. In short: `python3 -m http.server 8080` inside this folder, then open http://localhost:8080.
 
 ## Before you publish (required)
-1. Replace `https://example.com` with your real domain in all HTML files, `sitemap.xml` and `robots.txt`.
-2. Replace `contact@example.com` with your real email in `contact.html`, `privacy.html`, `terms.html`.
+1. Replace `https://devtext-studio.vercel.app` with your real domain in all HTML files, `sitemap.xml` and `robots.txt`.
+2. Replace `talharahman337@gmail.com` with your real email in `contact.html`, `privacy.html`, `terms.html`.
 3. Review `privacy.html` and `terms.html` for your country and add your business name. They are general templates, not legal advice.
 4. Replace the favicon files and the "DevText Studio" brand text if you rebrand.
 

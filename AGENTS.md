@@ -8,4 +8,4 @@ DevText Studio is a static site. Keep it dependency-free unless asked otherwise.
 - Styling is Tailwind via CDN (pinned 3.4.17). Custom colors are in the inline `tailwind.config`.
 - Randomness uses `crypto.getRandomValues`, never `Math.random`.
 - Do not add trackers or network calls that send user input anywhere. The privacy claim is the product's selling point.
-- `example.com` and `contact@example.com` are intentional placeholders.
+- `example.com` and `talharahman337@gmail.com` are intentional placeholders.
